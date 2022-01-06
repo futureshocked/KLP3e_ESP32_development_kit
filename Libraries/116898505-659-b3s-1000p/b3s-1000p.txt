@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16052011-063942";"";
+"REFERENCE";"B3S-1000P";"";
+"TraceParts.PartTitle";"Tactile Switch (Sealed SMD Type) – B3S";"";
+"TraceParts.InstanceId";"10-16052011-063942APESLIHUYYF0OZLMTUGIBTHA5";"";
+"DESIGN";"Tactile Switch Without ground terminal, Embossed tape, Height 4.3 mm, Operating Force 1.57N";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:10-16052011-063942";"";

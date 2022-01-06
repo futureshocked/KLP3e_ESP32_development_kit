@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CP2102N-A01-GQFN28")(type "Legacy")(uri "${KIPRJMOD}/Libraries/CP2102N-A01-GQFN28/CP2102N-A01-GQFN28.lib")(options "")(descr ""))
+  (lib (name "B3S-1000P")(type "Legacy")(uri "${KIPRJMOD}/Libraries/B3S-1000P/B3S-1000P.lib")(options "")(descr ""))
+)

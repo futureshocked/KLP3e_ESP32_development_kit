@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-04022020-052918";"";
+"REFERENCE";"CP2102N-A01-GQFN28";"";
+"TraceParts.PartTitle";"Integrated Circuit, Quad Flat No-Lead - CP2102N-A01-GQFN28, CP2102N-A01-GQFN28R";"";
+"TraceParts.InstanceId";"33-04022020-052918ES86WVK25P7SXKOOCWA4W6FCX";"";
+"DESIGN";"Integrated Circuit, Quad Flat No-Lead - CP2102N-A01-GQFN28";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Silicon Labs ";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SILICON_LABS:33-04022020-052918";"";
