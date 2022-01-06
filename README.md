@@ -1,4 +1,4 @@
-# KLP3e_ESP32_development_kit, a Kicad project
+# KLP3e ESP32 development kit, a Kicad project
 
 This is the repository for the "ESP32 Devkit clone" project.
 
